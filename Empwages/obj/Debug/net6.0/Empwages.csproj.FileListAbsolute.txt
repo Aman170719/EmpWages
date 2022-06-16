@@ -1,0 +1,15 @@
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\bin\Debug\net6.0\Empwages.exe
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\bin\Debug\net6.0\Empwages.deps.json
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\bin\Debug\net6.0\Empwages.runtimeconfig.json
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\bin\Debug\net6.0\Empwages.dll
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\bin\Debug\net6.0\Empwages.pdb
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.csproj.AssemblyReference.cache
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.AssemblyInfoInputs.cache
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.AssemblyInfo.cs
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.csproj.CoreCompileInputs.cache
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.dll
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\refint\Empwages.dll
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.pdb
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\Empwages.genruntimeconfig.cache
+C:\Users\Home Way\Desktop\Repo\Empwages\Empwages\obj\Debug\net6.0\ref\Empwages.dll
