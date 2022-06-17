@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Welcome to the Employee Wages Calculator");
+Console.WriteLine("Welcome to the Employee Wages Calculator");
 Console.WriteLine("Attendance of the Emplyee based on thier Pesence");
 //constant values
 
@@ -32,15 +32,6 @@ while(max_hr <= MAXHRS && max_day <= MAXDAY)
             break;
     }
 }
-
-
-
-
-
-//if (num == 0)
-//Console.WriteLine("Emp Is Present");
-
-
 int Emp_wage = (Emp_work_hrs * RATEPERHRS);
 Console.WriteLine("Employee Daily Wages is " + Emp_wage);
 Console.WriteLine("Emp Monthly Sal " + (Emp_wage * 20));
